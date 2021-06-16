@@ -1,0 +1,22 @@
+{
+  "name": "initial_day_week",
+  "version": "1.0.0",
+  "description": "Prompts the user for the initial of the day of the week and displays the name of the full day. The initial can be uppercase or lowercase.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/initial_day_week"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "calculation",
+    "week",
+    "day",
+    "backend"
+  ],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
